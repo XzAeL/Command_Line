@@ -18,3 +18,5 @@
 12.cp -r	: Copy folder/directory
 13.rm		: File yang ingin di hapus
 14.rm -r	: Folder yang ingin di hapus	
+
+
