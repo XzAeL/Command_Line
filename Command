@@ -1,0 +1,25 @@
+
+
+
+===== | Command Line | =====
+
+1.mkdir		: Membuat Folder
+2.touch		: Membuat File
+3.pwd		: Perintah pwd menulis nama path lengkap dari direktori 
+		  kerja saat ini ke output standar.
+4.cd (Nma Fldr)	: Membuka Folder
+5.cat		: Membuka File
+
+
+6.ls		: Memberitahu list yang ada di folder
+7.cd .. 	: Kembali ke directory awal
+8.cd		: Pindah ke directory paling awal (Home)
+9.mv	(1)	: Memindahkan sebuah file/folder (contoh.txt -> contoh)
+10.mv   (2)	: Mengubah nama file/folder
+
+11.cp		: Copy file
+12.cp -r	: Copy folder/directory
+13.rm		: File yang ingin di hapus
+14.rm -r	: Folder yang ingin di hapus	
+
+
